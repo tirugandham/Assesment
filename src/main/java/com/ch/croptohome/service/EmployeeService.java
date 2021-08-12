@@ -2,7 +2,7 @@ package com.ch.croptohome.service;
 
 import java.util.List;
 
-import com.ch.croptohome.model.Employee;
+import com.ch.croptohome.model.Employee; 
 
 public interface  EmployeeService {
 public Employee getEmployee(Long id);
